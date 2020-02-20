@@ -1,0 +1,18 @@
+1568297455988	Change Layout
+1568297976681	Change Layout
+1568298395611	Rename field 'textView1'
+1568298444812	Extracts string 'null' into R.string.stringTipCalculator
+1568301870511	Change Layout
+1568302191915	Rename field 'textView1'
+1568302216901	Extracts string 'null' into R.string.stringEnterAmount
+1568302253557	Rename field 'editText1'
+1568302321673	Extracts string 'null' into R.string.stringBillAmountHint
+1568302462557	Rename field 'textView2'
+1568302469013	Rename field 'textViewSelectTipPercentage'
+1568302488331	Extracts string 'null' into R.string.stringSelectTip
+1568302564241	Rename field 'radio0'
+1568302569575	Rename field 'radioButton1'
+1568302576178	Rename field 'radio1'
+1568302590280	Rename field 'radio2'
+1568302625313	Rename field 'textView3'
+1568302645969	Extracts string 'null' into R.string.stringTipTotal
